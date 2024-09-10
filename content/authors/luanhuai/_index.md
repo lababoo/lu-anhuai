@@ -44,6 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
+    name: ahlu@pku.edu.cn
     link: 'mailto:ahlu@pku.edu.cn'
  # - icon: google-scholar
  #   icon_pack: ai
@@ -51,6 +52,12 @@ social:
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
+
+       #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
