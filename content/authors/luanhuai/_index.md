@@ -44,7 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    contact: 'mailto:ahlu@pku.edu.cn'
+    link: 'mailto:ahlu@pku.edu.cn'
+    text: 'ahlu@pku.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
