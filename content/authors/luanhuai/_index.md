@@ -79,7 +79,7 @@ user_groups:
 sections:
   - block: contact
     content:      
-      email: test@example.org
+      email: ahlu@pku.edu.cn
 
       # Automatically link email and phone or display as text?
       autolink: true
