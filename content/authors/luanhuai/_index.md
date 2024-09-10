@@ -44,8 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    # link: 'mailto:ahlu@pku.edu.cn'
-    link: '#contact:ahlu@pku.edu.cn'
+    link: 'mailto:ahlu@pku.edu.cn'
  # - icon: google-scholar
  #   icon_pack: ai
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ahlu@pku.edu.cn
+email: 'ahlu@pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
