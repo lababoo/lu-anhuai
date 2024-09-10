@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 北京大学副教授、博导
 
-研究方向:
+interests:
   - 半导体矿物光催化
   - 矿物与微生物交互作用
   - 矿物法防治环境污染
