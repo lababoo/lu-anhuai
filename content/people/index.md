@@ -24,4 +24,5 @@ sections:
       show_role: true
       show_social: true
       show_email: true
+      show_content: true
 ---
