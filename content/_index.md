@@ -33,8 +33,8 @@ sections:
       order: desc
       page_type: post
     design:
-      # view: card
-      # columns: '1'
+      view: 
+      columns: '0'
   
   - block: markdown
     content:
