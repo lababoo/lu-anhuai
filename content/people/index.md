@@ -1,5 +1,5 @@
 ---
-title: 研究人员
+title: people
 date: 2022-10-24
 
 type: landing
@@ -25,5 +25,5 @@ sections:
       show_social: true
       show_email: true
       show_content: true
-      show_bio: true
+
 ---
