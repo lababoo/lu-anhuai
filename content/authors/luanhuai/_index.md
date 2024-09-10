@@ -10,7 +10,7 @@ last_name: Lu
 superuser: true
 
 # Role/position
-role: 北京大学教授
+role: 教授
 
 # Organizations/Affiliations
 organizations:
@@ -44,9 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ahlu@pku.edu.cn'
-content:
-  - title: ahlu@pku.edu.cn
+    # link: 'mailto:ahlu@pku.edu.cn'
+    link: '#contact:ahlu@pku.edu.cn'
  # - icon: google-scholar
  #   icon_pack: ai
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
