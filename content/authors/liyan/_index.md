@@ -32,11 +32,9 @@ interests:
 
 education:
   courses:
-    - course: 地球与空间科学学院博士
-      institution: 北京大学
+    - course: 北京大学地球与空间科学学院|博士
       year: 2003.09-2008.07
-    - course: 珠宝学院学士
-      institution: 中国地质大学（武汉）
+    - course: 中国地质大学（武汉）珠宝学院|学士
       year: 1999.09-2003.07
 
 # Social/Academic Networking
