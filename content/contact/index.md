@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '39.99281'
         longitude: '116.31088'
-      directions: 北京大学东连廊203
+      directions: 北京大学理科二号楼东连廊203
       office_hours:
         - '周一至周五 9:00 - 18:00'
       # appointment_url: 'https://calendly.com'
