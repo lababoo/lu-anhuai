@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 北京大学副教授、博导
+bio: 
 
 interests:
   - 半导体矿物光催化
