@@ -18,11 +18,11 @@ role: 副教授
 
 # Organizations/Affiliations
 organizations:
-  - name: 副教授、博导
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 北京大学副教授、博导
 
 interests:
   - 半导体矿物光催化
