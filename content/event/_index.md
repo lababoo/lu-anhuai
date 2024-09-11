@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 课题组动态
 
 # Listing view
 view: compact
