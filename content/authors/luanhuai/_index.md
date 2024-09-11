@@ -27,14 +27,11 @@ interests:
 
 education:
   courses:
-    - course: 地矿系博士
-      institution: 中国地质大学（北京）
+    - course: 中国地质大学（北京） | 地矿系 | 博士 
       year: 1989.09-1993.12
-    - course: 地矿系硕士
-      institution: 中国地质大学（北京）
+    - course: 中国地质大学（北京） | 地矿系 | 硕士
       year: 1984.09-1987.07
-    - course: 地质系学士
-      institution: 北京大学
+    - course: 北京大学 | 地质系 | 学士
       year: 1980.09-1984.07
 
 # Social/Academic Networking

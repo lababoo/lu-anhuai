@@ -30,18 +30,18 @@ interests:
 
 education:
   courses:
-    - course: 北京大学地球与空间科学学院|地质学（材料及环境矿物学）|博士
+    - course: 北京大学地球与空间科学学院 | 地质学（材料及环境矿物学） | 博士
       year: 2008.9 - 2013.7
-    - course: 北京大学生命科学学院|生物技术|学士
+    - course: 北京大学生命科学学院 | 生物技术 | 学士
       year: 2004.9 - 2008.7
 
-work experience:
+profile:
   courses:
-    - course: 北京大学地球与空间科学学院|副研究员
+    - course: 北京大学地球与空间科学学院 | 副研究员
       year: 2019.8 - 至今 
-    - course: 北京大学地球与空间科学学院|助理研究员
+    - course: 北京大学地球与空间科学学院 | 助理研究员
       year: 2016.3 - 2019.7 
-    - course: 北京大学地球与空间科学学院|博士后
+    - course: 北京大学地球与空间科学学院 | 博士后
       year: 2013.7 - 2016.3 
 
 # Social/Academic Networking
