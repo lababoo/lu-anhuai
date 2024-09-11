@@ -18,7 +18,7 @@ role: 副教授
 
 # Organizations/Affiliations
 organizations:
-  - name: 北京大学
+  - name: 副教授、博导
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -18,7 +18,7 @@ role: 副研究员
 
 # Organizations/Affiliations
 organizations:
-  - name: 北京大学
+  - name: 矿物环境功能北京市重点实验室管理员
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,14 +35,14 @@ education:
     - course: 北京大学生命科学学院 | 生物技术 | 学士
       year: 2004.9 - 2008.7
 
-profile:
-  courses:
-    - course: 北京大学地球与空间科学学院 | 副研究员
-      year: 2019.8 - 至今 
-    - course: 北京大学地球与空间科学学院 | 助理研究员
-      year: 2016.3 - 2019.7 
-    - course: 北京大学地球与空间科学学院 | 博士后
-      year: 2013.7 - 2016.3 
+# profile:
+#   courses:
+#     - course: 北京大学地球与空间科学学院 | 副研究员
+#       year: 2019.8 - 至今 
+#     - course: 北京大学地球与空间科学学院 | 助理研究员
+#       year: 2016.3 - 2019.7 
+#     - course: 北京大学地球与空间科学学院 | 博士后
+#       year: 2013.7 - 2016.3 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

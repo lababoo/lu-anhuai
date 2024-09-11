@@ -14,7 +14,7 @@ role: 教授
 
 # Organizations/Affiliations
 organizations:
-  - name: 北京大学
+  - name: 北京大学地质系/地球与空间科学学院教授；北京大学矿物环境功能北京市重点实验室主任
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
