@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 👋👋👋👋Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 鲁安怀课题组
+        content: 北京大学矿物环境功能北京市重点实验室
         align: center
         background:
           image:
@@ -18,18 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      # - title: Lunch & Learn ☕️
+      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
+      #   align: left
+      #   background:
+      #     image:
+      #       filename: contact.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#555'
+      - title: 
+        content: ''
         align: right
         background:
           image:
