@@ -73,7 +73,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="进入课题组 →" %}}
     design:
       columns: '1'
 ---
