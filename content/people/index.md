@@ -7,12 +7,12 @@ type: landing
 sections:
   - block: people
     content:
-      title: 教师团队
+      title: 研究人员
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Researchers
+          # - Researchers
           - Grad Students
           - Administration
           - Visitors

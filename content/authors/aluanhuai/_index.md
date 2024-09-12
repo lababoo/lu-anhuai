@@ -4,7 +4,7 @@ title: 鲁安怀
 
 # Full Name (for SEO)
 first_name: Anhuai 
-last_name: Lu
+last_name: aLu
 
 # Is this the primary user of the site?
 superuser: false
