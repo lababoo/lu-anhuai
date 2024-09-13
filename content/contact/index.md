@@ -10,7 +10,7 @@ sections:
       title: 联系我们
       text: |-
         长期招聘科研助理、博士后，欢迎对环境矿物学感兴趣的朋友加入！
-      email: 15308428259@163.com
+      email: dhr@pku.edu.cn
       phone: 888 888 88 88
       address:
         street: 北京市
