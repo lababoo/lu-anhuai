@@ -19,7 +19,7 @@ abstract: 2024年3月22日，铬专题课题验收会在北京大学英杰交流
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-03-22T09:00:00Z'
-date_end: '2024-03-22T12:00:00Z'
+date_end: '2024-03-22T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
