@@ -52,7 +52,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dhr@pku.edu.cn'
-  -  name: dhr@pku.edu.cn
+  - name: dhr@pku.edu.cn
     url: ''
 
 # Link to a PDF of your resume/CV from the About widget.
