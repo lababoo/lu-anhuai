@@ -55,7 +55,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+  项目成果丰厚，在铬污染治理方面取得重大进展。
 <!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
