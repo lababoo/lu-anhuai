@@ -2,13 +2,14 @@
 title: 铬专题课题验收会
 
 event: 课题验收会
-event_url: https://example.org
+event_url: 
+# https://example.org
 
 location: 北京大学英杰交流中心
 address:
-  street: 颐和园5号北京大学
+  street: 北京市
   city: 海淀区
-  region: 北京市
+  region: 颐和园5号北京大学
   postcode: '100091'
   country: 中国
 
@@ -55,10 +56,10 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+<!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Further event details, including page elements such as image galleries, can be added to the body of this page. -->
